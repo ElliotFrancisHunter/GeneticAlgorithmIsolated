@@ -1,0 +1,7 @@
+﻿  GANodePlacement.cpp
+D:\OneDrive - Sheffield Hallam University\University Level 6\Ai\GeneticAlgorithm\Project1\GANodePlacement.cpp(2632,107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Sheffield Hallam University\University Level 6\Ai\GeneticAlgorithm\Project1\GANodePlacement.cpp(2636,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Sheffield Hallam University\University Level 6\Ai\GeneticAlgorithm\Project1\GANodePlacement.cpp(2712,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\OneDrive - Sheffield Hallam University\University Level 6\Ai\GeneticAlgorithm\x64\Debug\Project1.exe
